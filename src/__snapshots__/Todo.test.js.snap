@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <li>
+    <span
+      style="text-decoration: None;"
+    />
+     
+    <button>
+      ❌
+    </button>
+  </li>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot when deleting 1`] = `
+<DocumentFragment>
+  <li>
+    <span
+      style="text-decoration: None;"
+    />
+     
+    <button>
+      ❌
+    </button>
+  </li>
+</DocumentFragment>
+`;
